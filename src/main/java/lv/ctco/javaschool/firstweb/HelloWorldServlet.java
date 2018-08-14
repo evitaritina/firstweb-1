@@ -20,7 +20,7 @@ public class HelloWorldServlet extends HttpServlet {
             } else {
                 out.append("Wrong password!");
             }
-            //   out.append("Hello, World, from the servlet!");
+            //   out.append("Hello, World, from the servlet!");       .
         }
     }
 
